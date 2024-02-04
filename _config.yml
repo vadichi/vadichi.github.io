@@ -29,8 +29,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vadichi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vadimtch
-github_username:  vadichi
 
 # Build settings
 # theme: minima
@@ -40,7 +38,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: ngzhio/jekyll-theme-hamilton
-skin: sunset
+skin: midnight
 
 # Exclude from processing.
 # The following items will not be processed, by default.
